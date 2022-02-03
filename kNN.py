@@ -6,7 +6,7 @@
 '''
 import numpy as np
 import matplotlib.pyplot as plt
-from tree_ploting import createPlot
+from tree_plotting import createPlot
 
 class Node(object):
     # 结点对象
